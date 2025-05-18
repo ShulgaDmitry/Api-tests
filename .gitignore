@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+/endpoinds/hash.py
+/settings.toml
+/game_data.toml
